@@ -5663,23 +5663,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\robbi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\6800K3.4\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.App\\WestWindApp.csproj",
+      "projectUniqueName": "C:\\Users\\6800K3.4\\Documents\\GitHub\\dotnetcore5-demos-westwind\\src\\WestWind.App\\WestWindApp.csproj",
       "projectName": "WestWindApp",
-      "projectPath": "C:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.App\\WestWindApp.csproj",
-      "packagesPath": "C:\\Users\\robbi\\.nuget\\packages\\",
-      "outputPath": "C:\\CPSC1517\\Repos\\dotnetcore5-demos-westwind\\src\\WestWind.App\\obj\\",
+      "projectPath": "C:\\Users\\6800K3.4\\Documents\\GitHub\\dotnetcore5-demos-westwind\\src\\WestWind.App\\WestWindApp.csproj",
+      "packagesPath": "C:\\Users\\6800K3.4\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\6800K3.4\\Documents\\GitHub\\dotnetcore5-demos-westwind\\src\\WestWind.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\robbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\6800K3.4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

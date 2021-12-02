@@ -4,7 +4,7 @@ using WestWind.Entities;
 namespace WestWind.DAL {
 //DAL is short for Data Access Layer
     public class WestWindContext : DbContext {
-        //constructor dependancy injection
+        //constructor dependency injection
         //inject the options which will tell the database context class where to access the database
         public WestWindContext(DbContextOptions<WestWindContext> options)
             : base(options) {}
