@@ -126,7 +126,6 @@ C:\Users\6800K3.4\Documents\GitHub\dotnetcore5-demos-westwind\src\WestWind.Web\o
 C:\Users\6800K3.4\Documents\GitHub\dotnetcore5-demos-westwind\src\WestWind.Web\obj\Debug\net5.0\WestWindWeb.RazorAssemblyInfo.cache
 C:\Users\6800K3.4\Documents\GitHub\dotnetcore5-demos-westwind\src\WestWind.Web\obj\Debug\net5.0\WestWindWeb.RazorAssemblyInfo.cs
 C:\Users\6800K3.4\Documents\GitHub\dotnetcore5-demos-westwind\src\WestWind.Web\obj\Debug\net5.0\staticwebassets\WestWindWeb.StaticWebAssets.Manifest.cache
-C:\Users\6800K3.4\Documents\GitHub\dotnetcore5-demos-westwind\src\WestWind.Web\obj\Debug\net5.0\staticwebassets\WestWindWeb.StaticWebAssets.xml
 C:\Users\6800K3.4\Documents\GitHub\dotnetcore5-demos-westwind\src\WestWind.Web\obj\Debug\net5.0\scopedcss\bundle\WestWindWeb.styles.css
 C:\Users\6800K3.4\Documents\GitHub\dotnetcore5-demos-westwind\src\WestWind.Web\obj\Debug\net5.0\WestWindWeb.TagHelpers.input.cache
 C:\Users\6800K3.4\Documents\GitHub\dotnetcore5-demos-westwind\src\WestWind.Web\obj\Debug\net5.0\WestWindWeb.TagHelpers.output.cache
